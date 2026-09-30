@@ -1,0 +1,11 @@
+{
+  "project": "SPIN",
+  "target": "/home/shubhammankodiya/Documents/SPINNMain/SPINN-main",
+  "purpose": "Current SPINN-main assessment baseline",
+  "hash_algorithm": "SHA-256",
+  "file_count": 1034,
+  "total_bytes": 95327787,
+  "git_metadata_available": false,
+  "git_commit": null,
+  "baseline_timestamp": "2026-09-30T07:21:50Z"
+}

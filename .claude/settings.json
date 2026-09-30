@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "additionalDirectories": [
+      "/home/shubhammankodiya/Documents/SPINNMain/SPINN-main"
+    ],
+    "deny": [
+      "Edit(//home/shubhammankodiya/Documents/SPINNMain/SPINN-main/**)"
+    ]
+  }
+}

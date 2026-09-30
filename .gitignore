@@ -1,0 +1,21 @@
+# ============================================================
+# Local assessment targets — NEVER COMMIT
+# ============================================================
+/local-targets/
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Python/runtime
+__pycache__/
+.pytest_cache/
+.coverage
+*.pyc
+
+# OS/editor
+.DS_Store
